@@ -16,3 +16,4 @@ The app's data would be stored in a MongoDB database, which would provide scalab
 ![image](https://user-images.githubusercontent.com/88021838/227129848-dae16957-ac33-45ca-bd47-ea5a709583ef.png)
 ![image](https://user-images.githubusercontent.com/88021838/227129907-876ba0b0-a85d-4fed-b783-d0a0c7bc8694.png)
 ![image](https://user-images.githubusercontent.com/88021838/227129976-36dca320-c957-4115-a69d-257dfaec00e6.png)
+/
