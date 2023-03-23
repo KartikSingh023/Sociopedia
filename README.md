@@ -2,7 +2,13 @@
 Complete React MERN Full Stack Social Media App
 
 
-For users who are looking to contribute, I'm planning to possibly create a separate branch for community contributions and additional features as well as for improvements and fixes.
+A social media app  platform that allows users to connect and interact with each other through a variety of features such as posting, commenting, liking, content. The app would be built using the MERN stack, which is a combination of four technologies: MongoDB, Express, React, and Node.js.
+
+
+
+Users would be able to create profiles, follow other users. The app would also include features such as a newsfeed, . Users could interact with each other through commenting on posts, liking posts.
+
+The app's data would be stored in a MongoDB database, which would provide scalability and flexibility for handling large amounts of data. The app's user interface would be designed to be responsive and mobile-friendly, allowing users to access the platform from any device.
 
 ![image](https://user-images.githubusercontent.com/88021838/227129502-cd7ba218-aa5d-4760-9e75-c12ec66a73d7.png)
 ![image](https://user-images.githubusercontent.com/88021838/227129649-f1b47e2c-e71f-440c-ad11-ca456357fb15.png)
